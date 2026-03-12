@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Shubham 👋
 
-<!--
-**thanoskaka/thanoskaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-driven solutions and share practical, open-source tools for personal productivity and data automation.
 
-Here are some ideas to get you started:
+Most of my work focuses on: **AI Agents, automated workflows, personal finance tools, and solving that unique problem only faced by nerds like me.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ What I work on
+* 🤖 **AI Solutions:** Building custom LLM wrappers and agents to solve daily friction.
+* 📊 **Personal Finance Tech:** Engineering budget & portfolio managers engines that bridge Google Sheets and real-time data.
+* 🏠 **Home Ops:** Automating media servers and smart environments via ADB and custom scripts.
+* 🔍 **Tooling:** Open-source utilities for managing cloud storage (Google Photos) and data cleanup.
+* 
+
+---
+
+### About Me
+* 💼 **Principal Product Manager at Oracle** focused on building scalable, user-centric systems.
+* 🇨🇦 Based in **Vancouver, BC**
+* 
+
+---
+
+### 🚀 Featured Projects
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[Google-Photos-Finder](https://github.com/thanoskaka/Google-Photos-Space-Finder)** | Automated storage management for Google Photos. | Python, Google API |
+| **[Vibe Budget App](https://github.com/thanoskaka/vibe-budget-app)** | Custom-built financial tracking & automation tool. | React, AI, Sheets |
