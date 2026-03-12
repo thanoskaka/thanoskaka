@@ -11,7 +11,7 @@ Most of my work focuses on: **AI Agents, automated workflows, personal finance t
 * 📊 **Personal Finance Tech:** Engineering budget & portfolio managers engines that bridge Google Sheets and real-time data.
 * 🏠 **Home Ops:** Automating media servers and smart environments via ADB and custom scripts.
 * 🔍 **Tooling:** Open-source utilities for managing cloud storage (Google Photos) and data cleanup.
-* 
+* **Misc:** Random solutions that make my life easy.
 
 ---
 
